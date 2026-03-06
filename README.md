@@ -13,5 +13,4 @@ Node.js | NestJS | React | Next.js | TDD
 - Automated testing
 
 📫 How to reach me:
-LinkedIn: link
-Email: email
+LinkedIn: https://www.linkedin.com/in/gabriel-sim%C3%B5es-de-souza/
