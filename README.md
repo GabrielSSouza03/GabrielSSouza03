@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**GabrielSSouza03/GabrielSSouza03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gabriel 👋
 
-Here are some ideas to get you started:
+Software Developer focused on building scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+Node.js | NestJS | React | Next.js | TDD
+
+🚀 Currently working on:
+- Fullstack applications
+- Clean architecture
+- Automated testing
+
+📫 How to reach me:
+LinkedIn: link
+Email: email
