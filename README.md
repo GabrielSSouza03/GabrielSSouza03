@@ -5,7 +5,7 @@
 Software Developer focused on building scalable web applications.
 
 💻 Tech Stack:
-Node.js | NestJS | React | Next.js | TDD
+Node.js | NestJS | React | Next.js 
 
 🚀 Currently working on:
 - Fullstack applications
